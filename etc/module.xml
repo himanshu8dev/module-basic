@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!--
+/*
+* Himanshu Kubavat
+* Basic Magento2 Minimal Module
+*/
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+	<module name="Himanshu_BasicModule" setup_version="1.0.0"/>
+</config>

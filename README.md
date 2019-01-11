@@ -7,7 +7,7 @@ Install Via Composer
 -----------
 
 Set respository path in composer config : 
-`composer config repositories.himanshu-module-basic git git@github.com:HimanshuUsr/BasicModule.git`
+`composer config repositories.himanshu-module-basic git git@github.com:Himanshu8dev/BasicModule.git`
 
 Download/Install module via composer : 
 `composer require himanshu/module-basic:dev-master`

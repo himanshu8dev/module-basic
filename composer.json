@@ -6,12 +6,6 @@
   "require": {
     "php": "^7.0"
   },
-  "repositories": [
-      {
-          "type": "vcs",
-          "url": "https://github.com/himanshu8dev/module-basic"
-      }
-  ],
   "type": "magento2-module",
   "autoload": {
     "files": [
